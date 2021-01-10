@@ -1,0 +1,19 @@
+{
+  "name": "telephone-oracle",
+  "version": "0.0.1",
+  "description": "Browser-based Telephone Oracle game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marnen/telephone-oracle.git"
+  },
+  "author": "Marnen E. Laibow-Koser <marnen@marnen.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marnen/telephone-oracle/issues"
+  },
+  "homepage": "https://github.com/marnen/telephone-oracle#readme"
+}
