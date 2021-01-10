@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marnen/telephone-oracle/issues"
   },
-  "homepage": "https://github.com/marnen/telephone-oracle#readme"
+  "homepage": "https://github.com/marnen/telephone-oracle#readme",
+  "devDependencies": {
+    "phantomjs-prebuilt": "^2.1.16"
+  }
 }
