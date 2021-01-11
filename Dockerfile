@@ -2,9 +2,6 @@ FROM node:15.5-alpine
 MAINTAINER Marnen Laibow-Koser <marnen@marnen.org>
 
 # RUN apk --no-cache add build-base git nodejs yarn tzdata
-# WORKDIR /
-# RUN wget -O - https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-x86_64.tar.bz2 | tar xjv && \
-#   ln -s /phantomjs-2.1.1-linux-x86_64/bin/phantomjs /usr/local/bin
 
 ARG workdir=/telephone-oracle
 
